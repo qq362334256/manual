@@ -1,0 +1,22 @@
+{
+    "name": "manual",
+    "version": "0.0.1",
+    "description": "This is one of my personal use manual！",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/qq362334256/manual.git"
+    },
+    "keywords": [
+        "manual"
+    ],
+    "author": "miaoyu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/qq362334256/manual/issues"
+    },
+    "homepage": "https://github.com/qq362334256/manual#readme"
+}
