@@ -49,12 +49,6 @@ getTemplate = (data) => $setTemplate(`
         ${$forEach(data.arr, (item) => `<span>内容${item}</span>`)}
     </div>
     <div>11111111</div>
-    <script type="text/javascript" src="js/lib/angular.min.js"></script>
-    <script type="text/javascript" src="js/lib/angular-ui-router.min.js"></script>
-    <script type="text/javascript" src="js/lib/angular-animate.min.js"></script>
-    <script type="text/javascript" src="js/lib/angular-messages.min.js"></script>
-    <script type="text/javascript" src="js/lib/angular-sanitize.min.js"></script>
-    <script type="text/javascript" src="js/lib/bindonce.min.js"></script>
 </body>
 </html>
 

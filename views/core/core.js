@@ -13,7 +13,7 @@ let viewTem = {
 
         return $view($controller());
     }
-}
+};
 
 // 导入模块数据
 Object.assign(exports, viewTem);
