@@ -13,5 +13,5 @@ exports.setRouter = function(app) {
     //app.get('*', (req, res) => res.send(viewTem.getTemplate('/index')));
 
     // 跳首页
-    app.get('/', (req, res) => res.send(viewTem.getTemplate(req.url)));
+    app.get('/', (req, res) => res.send(viewTem.getTemplate('/index')));
 };
